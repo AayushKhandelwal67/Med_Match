@@ -1,0 +1,371 @@
+Doctor ID,Name,Specialty,Years of Experience,Affiliation,Average Rating
+ALLER_01,Dr. Julian Beck,Allergist/Immunologist,6,Lake Brent Medical Center,4.58
+ALLER_02,Dr. Betty Silva,Allergist/Immunologist,6,South April Medical Center,4.81
+ALLER_03,Dr. Heather Wood,Allergist/Immunologist,39,South Julie Medical Center,3.68
+ALLER_04,Dr. Jessica Walker,Allergist/Immunologist,16,Maryside Medical Center,4.58
+ALLER_05,Dr. James Hess,Allergist/Immunologist,36,New Mitchellburgh Medical Center,4.63
+ALLER_06,Dr. Robin Fischer,Allergist/Immunologist,35,Mcgrathton Medical Center,3.93
+ALLER_07,Dr. Deborah Oneill,Allergist/Immunologist,18,Lake Ann Medical Center,3.53
+ALLER_08,Dr. Jillian Cowan,Allergist/Immunologist,5,North Danielleborough Medical Center,3.84
+ALLER_09,Dr. Ann Evans,Allergist/Immunologist,25,Rodriguezside Medical Center,4.65
+ALLER_10,Dr. Justin Suarez,Allergist/Immunologist,15,Calebstad Medical Center,4.38
+ANEST_01,Dr. Brittany Bradley,Anesthesiologist,20,North Jesse Medical Center,4.67
+ANEST_02,Dr. Joseph Freeman,Anesthesiologist,14,Rebeccaville Medical Center,4.25
+ANEST_03,Dr. Jessica Banks,Anesthesiologist,19,West Rachelland Medical Center,4.49
+ANEST_04,Dr. Bryan Yoder,Anesthesiologist,6,Rogerchester Medical Center,3.51
+ANEST_05,Dr. Corey Elliott,Anesthesiologist,13,South Shannonfurt Medical Center,4.4
+ANEST_06,Dr. Virginia Phillips,Anesthesiologist,12,Lake Brianna Medical Center,4.5
+ANEST_07,Dr. Rebecca Wagner,Anesthesiologist,20,Johnsonfurt Medical Center,3.99
+ANEST_08,Dr. Sandra Arias,Anesthesiologist,27,Jordanport Medical Center,4.85
+ANEST_09,Dr. Lorraine Smith,Anesthesiologist,35,Waltershaven Medical Center,4.88
+ANEST_10,Dr. Luke Craig,Anesthesiologist,10,Melodychester Medical Center,4.58
+CARDI_01,Dr. Nicole Hall,Cardiologist,34,West Anthony Medical Center,3.54
+CARDI_02,Dr. Alejandro Turner,Cardiologist,37,East Caroline Medical Center,3.71
+CARDI_03,Dr. Sharon Hart,Cardiologist,21,Francisland Medical Center,4.32
+CARDI_04,Dr. Alyssa Weaver,Cardiologist,36,Martinezfort Medical Center,4.89
+CARDI_05,Dr. Karen Kim,Cardiologist,21,Rachelview Medical Center,4.66
+CARDI_06,Dr. Tammy Cherry,Cardiologist,40,North Colleen Medical Center,4.89
+CARDI_07,Dr. Linda Stewart,Cardiologist,26,Chadport Medical Center,4.93
+CARDI_08,Dr. Monica Williams,Cardiologist,17,Heatherfurt Medical Center,3.51
+CARDI_09,Dr. George Austin,Cardiologist,36,Cunninghamfurt Medical Center,4.72
+CARDI_10,Dr. Scott Benitez,Cardiologist,16,East Marisafurt Medical Center,4.22
+DERMA_01,Dr. Karen Smith,Dermatologist,11,West Stevenland Medical Center,3.61
+DERMA_02,Dr. Erin Munoz,Dermatologist,15,Johnbury Medical Center,4.96
+DERMA_03,Dr. Christina Martinez,Dermatologist,7,Leonardton Medical Center,3.57
+DERMA_04,Dr. Robert Thomas,Dermatologist,38,East Joseview Medical Center,3.7
+DERMA_05,Dr. Joy Aguilar,Dermatologist,33,North Scottchester Medical Center,4.54
+DERMA_06,Dr. Cynthia Jackson,Dermatologist,26,South Steven Medical Center,3.5
+DERMA_07,Dr. Erin Morgan,Dermatologist,27,North Brandon Medical Center,4.7
+DERMA_08,Dr. Matthew Smith,Dermatologist,18,East Ginaberg Medical Center,3.58
+DERMA_09,Dr. Brittney Wallace,Dermatologist,18,Vincentton Medical Center,3.53
+DERMA_10,Dr. Brooke Perez,Dermatologist,23,Tannerland Medical Center,4.38
+EMERG_01,Dr. Samuel Young,Emergency Medicine Physician,26,Joshuashire Medical Center,3.85
+EMERG_02,Dr. Brian Delgado,Emergency Medicine Physician,12,North Anthony Medical Center,4.62
+EMERG_03,Dr. Olivia Caldwell,Emergency Medicine Physician,16,Fergusonland Medical Center,4.39
+EMERG_04,Dr. Jennifer Whitaker,Emergency Medicine Physician,19,Ashleyshire Medical Center,4.91
+EMERG_05,Dr. Robert Andersen,Emergency Medicine Physician,31,Hawkinston Medical Center,4.48
+EMERG_06,Dr. Kelly Lopez,Emergency Medicine Physician,30,South Christopher Medical Center,3.54
+EMERG_07,Dr. Sarah Williams,Emergency Medicine Physician,12,Robertmouth Medical Center,4.15
+EMERG_08,Dr. Edward Hicks,Emergency Medicine Physician,12,Ebonyborough Medical Center,3.95
+EMERG_09,Dr. Tracy Hernandez,Emergency Medicine Physician,6,Sparksfort Medical Center,3.75
+EMERG_10,Dr. David Rhodes,Emergency Medicine Physician,26,East Kaitlin Medical Center,4.87
+ENDOC_01,Dr. Christopher Reed,Endocrinologist,6,Gomezburgh Medical Center,3.76
+ENDOC_02,Dr. Omar Hudson,Endocrinologist,28,Lauraton Medical Center,4.42
+ENDOC_03,Dr. John Turner,Endocrinologist,16,South Andrew Medical Center,4.5
+ENDOC_04,Dr. Monica Herrera,Endocrinologist,33,Lake Jerrybury Medical Center,3.8
+ENDOC_05,Dr. Robert Wagner,Endocrinologist,37,New Natalieview Medical Center,4.92
+ENDOC_06,Dr. Emily Walter,Endocrinologist,16,South Erinville Medical Center,3.79
+ENDOC_07,Dr. Linda Hall,Endocrinologist,22,Stephaniestad Medical Center,3.53
+ENDOC_08,Dr. Samantha Brooks,Endocrinologist,31,Padillashire Medical Center,4.05
+ENDOC_09,Dr. Lauren Schmidt,Endocrinologist,9,South Karenfort Medical Center,4.94
+ENDOC_10,Dr. Susan King,Endocrinologist,20,Stephanieshire Medical Center,4.55
+FAMIL_01,Dr. Keith Williams,Family Medicine Physician,34,Lake Laurenfort Medical Center,4.5
+FAMIL_02,Dr. Erin Morris,Family Medicine Physician,37,Jeremymouth Medical Center,4.69
+FAMIL_03,Dr. Katherine Morgan,Family Medicine Physician,28,East Dakota Medical Center,4.04
+FAMIL_04,Dr. Chelsea Mathews,Family Medicine Physician,29,New Nathanielberg Medical Center,3.61
+FAMIL_05,Dr. Emily Armstrong,Family Medicine Physician,30,Daniellefurt Medical Center,4.27
+FAMIL_06,Dr. Richard Barnes,Family Medicine Physician,23,Lake Jacquelineton Medical Center,4.47
+FAMIL_07,Dr. Tonya Cordova,Family Medicine Physician,38,North Katiemouth Medical Center,4.17
+FAMIL_08,Dr. Travis Warren,Family Medicine Physician,12,Thompsonmouth Medical Center,3.96
+FAMIL_09,Dr. Caleb Ramirez,Family Medicine Physician,18,Andrewburgh Medical Center,3.53
+FAMIL_10,Dr. Steven Hobbs,Family Medicine Physician,31,Ramirezville Medical Center,4.06
+GASTR_01,Dr. Anthony Swanson,Gastroenterologist,15,Millerton Medical Center,4.37
+GASTR_02,Dr. Sandra Dyer,Gastroenterologist,33,Scottchester Medical Center,4.37
+GASTR_03,Dr. Joseph Brown,Gastroenterologist,16,Jacksonview Medical Center,4.99
+GASTR_04,Dr. Megan Myers,Gastroenterologist,28,South Jesse Medical Center,4.04
+GASTR_05,Dr. Melody Doyle,Gastroenterologist,27,Brittanymouth Medical Center,4.44
+GASTR_06,Dr. Chelsea Hughes,Gastroenterologist,30,East Carlton Medical Center,3.69
+GASTR_07,Dr. Jasmine Ruiz,Gastroenterologist,7,Sandrachester Medical Center,4.72
+GASTR_08,Dr. James Lee,Gastroenterologist,18,Robertfort Medical Center,4.66
+GASTR_09,Dr. Jonathan Herrera,Gastroenterologist,32,North Robert Medical Center,3.8
+GASTR_10,Dr. Brent Graves,Gastroenterologist,28,North Juliemouth Medical Center,3.85
+GERIA_01,Dr. Dana Davis,Geriatrician,34,Port Jenniferton Medical Center,4.55
+GERIA_02,Dr. Karen Leonard,Geriatrician,7,North Shannon Medical Center,3.93
+GERIA_03,Dr. Kevin Harris,Geriatrician,9,North Rebecca Medical Center,4.66
+GERIA_04,Dr. David Jones,Geriatrician,28,Rodriguezborough Medical Center,4.61
+GERIA_05,Dr. David Holt,Geriatrician,34,Stephenschester Medical Center,4.2
+GERIA_06,Dr. James Garcia,Geriatrician,31,West Brendanmouth Medical Center,4.72
+GERIA_07,Dr. Thomas Hebert,Geriatrician,17,New Kaylaview Medical Center,4.52
+GERIA_08,Dr. Jill Johnson,Geriatrician,31,Maybury Medical Center,3.71
+GERIA_09,Dr. Michael Olson,Geriatrician,6,Hendrixmouth Medical Center,4.53
+GERIA_10,Dr. Kimberly Williamson,Geriatrician,36,North Joseburgh Medical Center,4.98
+HEMAT_01,Dr. Ashley Dougherty,Hematologist,24,Princeton Medical Center,3.52
+HEMAT_02,Dr. Jennifer Fleming,Hematologist,40,Jenniferfurt Medical Center,4.75
+HEMAT_03,Dr. Elizabeth Contreras,Hematologist,12,Jennyview Medical Center,3.9
+HEMAT_04,Dr. Kevin Hudson,Hematologist,30,North Marcus Medical Center,3.84
+HEMAT_05,Dr. Anthony Dougherty,Hematologist,38,Gabriellashire Medical Center,3.66
+HEMAT_06,Dr. Hunter Wang,Hematologist,10,Brendaland Medical Center,4.22
+HEMAT_07,Dr. Aaron Bernard,Hematologist,31,Andreastad Medical Center,3.65
+HEMAT_08,Dr. Angela Hughes,Hematologist,22,Teresaview Medical Center,4.52
+HEMAT_09,Dr. Robert Jones,Hematologist,18,Jenniferfurt Medical Center,4.17
+HEMAT_10,Dr. Jesus Miller,Hematologist,8,Georgeberg Medical Center,4.06
+INFEC_01,Dr. Pamela Hanson,Infectious Disease Specialist,35,New Denise Medical Center,4.16
+INFEC_02,Dr. Daniel Harris,Infectious Disease Specialist,7,Herrerahaven Medical Center,4.2
+INFEC_03,Dr. Jennifer Newton,Infectious Disease Specialist,40,Shahmouth Medical Center,4.82
+INFEC_04,Dr. James Price,Infectious Disease Specialist,38,Port Sheila Medical Center,3.55
+INFEC_05,Dr. Alexander Christensen,Infectious Disease Specialist,32,North Donna Medical Center,4.58
+INFEC_06,Dr. Jesus Stewart,Infectious Disease Specialist,28,East Nicole Medical Center,4.12
+INFEC_07,Dr. Olivia Warner,Infectious Disease Specialist,23,Reneefort Medical Center,4.24
+INFEC_08,Dr. Linda Taylor,Infectious Disease Specialist,26,Chavezside Medical Center,4.95
+INFEC_09,Dr. Bobby Mccall,Infectious Disease Specialist,9,Danielleport Medical Center,3.8
+INFEC_10,Dr. Nicole Douglas,Infectious Disease Specialist,16,Jayview Medical Center,3.73
+INTER_01,Dr. Dennis Jones,Internist,29,South Michelleshire Medical Center,4.16
+INTER_02,Dr. Bradley Mills,Internist,23,Carlosmouth Medical Center,4.53
+INTER_03,Dr. Matthew Taylor,Internist,21,Thompsonshire Medical Center,3.58
+INTER_04,Dr. Jill Adams,Internist,20,Josephhaven Medical Center,3.74
+INTER_05,Dr. Samantha Schmidt,Internist,26,Jacksonmouth Medical Center,4.07
+INTER_06,Dr. Bradley Clay,Internist,38,South Robertbury Medical Center,4.43
+INTER_07,Dr. Veronica Moore,Internist,17,West Christinechester Medical Center,4.21
+INTER_08,Dr. Maurice Clark,Internist,36,Port Joel Medical Center,3.76
+INTER_09,Dr. Shawn Davis,Internist,35,Collinshaven Medical Center,4.28
+INTER_10,Dr. Joshua Richardson,Internist,8,Brucechester Medical Center,4.92
+MEDIC_01,Dr. Cynthia Wiley,Medical Geneticist,37,New Nataliestad Medical Center,3.9
+MEDIC_02,Dr. Jasmine Wood,Medical Geneticist,31,Port Justinland Medical Center,4.66
+MEDIC_03,Dr. Carlos Hodge,Medical Geneticist,30,Merrittstad Medical Center,4.66
+MEDIC_04,Dr. Caitlin Porter,Medical Geneticist,36,Matthewmouth Medical Center,4.47
+MEDIC_05,Dr. Jay Graham,Medical Geneticist,37,North Jerrystad Medical Center,4.88
+MEDIC_06,Dr. Matthew Jones,Medical Geneticist,30,Howardview Medical Center,4.19
+MEDIC_07,Dr. Tyler Smith,Medical Geneticist,29,South Coryshire Medical Center,4.08
+MEDIC_08,Dr. Stacy Wells,Medical Geneticist,40,East Ryan Medical Center,3.93
+MEDIC_09,Dr. Jennifer Moore,Medical Geneticist,28,Tinaville Medical Center,4.92
+MEDIC_10,Dr. Patrick Young,Medical Geneticist,23,Jeremyview Medical Center,3.98
+NEPHR_01,Dr. Angela Anderson,Nephrologist,14,Leslieport Medical Center,4.79
+NEPHR_02,Dr. Brian Morgan,Nephrologist,30,South Charles Medical Center,4.64
+NEPHR_03,Dr. Sarah Smith,Nephrologist,31,North Amber Medical Center,4.9
+NEPHR_04,Dr. Melissa Young,Nephrologist,9,East Cameron Medical Center,4.03
+NEPHR_05,Dr. Jacob King,Nephrologist,5,Hillport Medical Center,3.71
+NEPHR_06,Dr. Jeremy Reynolds,Nephrologist,22,West Matthew Medical Center,4.51
+NEPHR_07,Dr. Mercedes English,Nephrologist,29,New Matthew Medical Center,3.66
+NEPHR_08,Dr. Jonathan Lucas,Nephrologist,34,Murrayshire Medical Center,4.21
+NEPHR_09,Dr. Crystal Andrade,Nephrologist,35,Melissabury Medical Center,4.15
+NEPHR_10,Dr. Tiffany Perez,Nephrologist,35,North Justin Medical Center,4.42
+NEURO_01,Dr. Robert Flores,Neurologist,16,Ramirezfurt Medical Center,4.27
+NEURO_02,Dr. Nicholas Rice,Neurologist,39,West Jasmineton Medical Center,4.75
+NEURO_03,Dr. Steven Collins,Neurologist,12,South Amber Medical Center,3.75
+NEURO_04,Dr. Judy Ramirez,Neurologist,20,North Audrey Medical Center,4.74
+NEURO_05,Dr. Terrance Murphy,Neurologist,25,Port Charlesfort Medical Center,3.92
+NEURO_06,Dr. Samantha Thompson,Neurologist,11,North John Medical Center,4.21
+NEURO_07,Dr. Matthew Ayala,Neurologist,26,Michaelside Medical Center,4.43
+NEURO_08,Dr. Stacey Conley,Neurologist,19,Lake Brenda Medical Center,3.57
+NEURO_09,Dr. Devin Stephens,Neurologist,10,Lake Amandaborough Medical Center,3.52
+NEURO_10,Dr. Jennifer Silva,Neurologist,37,Masonfurt Medical Center,4.18
+NEURO_01,Dr. Kristie Boone,Neurosurgeon,10,New Ryanfurt Medical Center,4.06
+NEURO_02,Dr. Darrell Jones,Neurosurgeon,11,Gallagherchester Medical Center,3.94
+NEURO_03,Dr. Ryan Woodard,Neurosurgeon,26,New Melanie Medical Center,4.59
+NEURO_04,Dr. David Thompson,Neurosurgeon,21,Joannabury Medical Center,3.98
+NEURO_05,Dr. Brian Russell,Neurosurgeon,28,Bobbymouth Medical Center,4.08
+NEURO_06,Dr. Sarah Garcia,Neurosurgeon,22,Cherylhaven Medical Center,4.21
+NEURO_07,Dr. Christopher Snyder,Neurosurgeon,24,New Christianburgh Medical Center,4.94
+NEURO_08,Dr. James Olson,Neurosurgeon,36,Davidhaven Medical Center,3.66
+NEURO_09,Dr. Karen Moore,Neurosurgeon,10,West Justin Medical Center,3.86
+NEURO_10,Dr. Daniel Stewart,Neurosurgeon,30,Port Austin Medical Center,4.79
+OBSTE_01,Dr. Katie Salazar,Obstetrician/Gynecologist (OB/GYN),20,Tonyaside Medical Center,3.71
+OBSTE_02,Dr. Mary Wright,Obstetrician/Gynecologist (OB/GYN),25,Angelachester Medical Center,3.67
+OBSTE_03,Dr. Joan Campbell,Obstetrician/Gynecologist (OB/GYN),12,Lake Brentborough Medical Center,4.33
+OBSTE_04,Dr. James West,Obstetrician/Gynecologist (OB/GYN),38,Lake Kimberly Medical Center,4.83
+OBSTE_05,Dr. Katrina Ramirez,Obstetrician/Gynecologist (OB/GYN),23,Dianaside Medical Center,4.64
+OBSTE_06,Dr. Paul Myers,Obstetrician/Gynecologist (OB/GYN),23,Dustinburgh Medical Center,4.06
+OBSTE_07,Dr. Cheryl Garcia,Obstetrician/Gynecologist (OB/GYN),9,South Kristinaview Medical Center,3.72
+OBSTE_08,Dr. Jennifer Baker,Obstetrician/Gynecologist (OB/GYN),9,Kristenberg Medical Center,3.78
+OBSTE_09,Dr. Diane Lopez,Obstetrician/Gynecologist (OB/GYN),20,Port Rossburgh Medical Center,3.64
+OBSTE_10,Dr. Charles Dickson,Obstetrician/Gynecologist (OB/GYN),18,Port Danielburgh Medical Center,4.22
+ONCOL_01,Dr. James Carlson,Oncologist,40,Ashleyside Medical Center,3.67
+ONCOL_02,Dr. Willie Carr,Oncologist,34,South Anna Medical Center,3.76
+ONCOL_03,Dr. Philip Rubio,Oncologist,36,West Brandonstad Medical Center,4.66
+ONCOL_04,Dr. Diamond Day,Oncologist,34,Port Stephanie Medical Center,3.81
+ONCOL_05,Dr. Jennifer Roberts,Oncologist,7,Carriechester Medical Center,4.36
+ONCOL_06,Dr. Thomas Cooper,Oncologist,17,Lake James Medical Center,4.94
+ONCOL_07,Dr. Steven Willis,Oncologist,19,Lewismouth Medical Center,4.24
+ONCOL_08,Dr. Jennifer Wilson,Oncologist,16,Monicachester Medical Center,4.49
+ONCOL_09,Dr. Jessica Stephens,Oncologist,28,Paulview Medical Center,4.27
+ONCOL_10,Dr. Debra Arellano,Oncologist,31,Hendrickston Medical Center,5.0
+OPHTH_01,Dr. Natalie Rodgers,Ophthalmologist,35,New Kurtfort Medical Center,4.83
+OPHTH_02,Dr. Yesenia Smith,Ophthalmologist,19,South Derrick Medical Center,3.88
+OPHTH_03,Dr. Crystal Barker,Ophthalmologist,14,Dillonstad Medical Center,4.62
+OPHTH_04,Dr. Richard Rice,Ophthalmologist,17,East Angelaland Medical Center,3.89
+OPHTH_05,Dr. Erin Stevens,Ophthalmologist,13,New Robert Medical Center,4.85
+OPHTH_06,Dr. Peter Ramos,Ophthalmologist,32,Darrellfurt Medical Center,3.72
+OPHTH_07,Dr. Donna Johnson,Ophthalmologist,21,South Zachary Medical Center,4.71
+OPHTH_08,Dr. Kevin Thompson,Ophthalmologist,8,West Lindastad Medical Center,4.67
+OPHTH_09,Dr. Mary Nixon,Ophthalmologist,15,South Sean Medical Center,4.95
+OPHTH_10,Dr. Marvin Bryan,Ophthalmologist,25,Michellefort Medical Center,4.85
+ORTHO_01,Dr. Ashley Smith,Orthopedic Surgeon,40,North Kimberlyburgh Medical Center,3.81
+ORTHO_02,Dr. Nathaniel Mejia,Orthopedic Surgeon,19,Lake William Medical Center,4.29
+ORTHO_03,Dr. Brooke Erickson,Orthopedic Surgeon,16,Sanchezton Medical Center,4.35
+ORTHO_04,Dr. Robert Shepherd,Orthopedic Surgeon,14,Lake Scott Medical Center,4.81
+ORTHO_05,Dr. Stephanie Anderson,Orthopedic Surgeon,11,North Tabithaview Medical Center,3.69
+ORTHO_06,Dr. Katie Rogers,Orthopedic Surgeon,10,Baileyland Medical Center,4.37
+ORTHO_07,Dr. Beth Williams,Orthopedic Surgeon,14,Jonesside Medical Center,4.8
+ORTHO_08,Dr. Terri Schmitt,Orthopedic Surgeon,34,Seanmouth Medical Center,4.39
+ORTHO_09,Dr. Douglas Owens,Orthopedic Surgeon,32,New Kelly Medical Center,3.86
+ORTHO_10,Dr. Christopher Vargas,Orthopedic Surgeon,35,Makaylamouth Medical Center,4.63
+OTOLA_01,Dr. Katie Thomas,Otolaryngologist (ENT),6,Lake Angelafort Medical Center,4.61
+OTOLA_02,Dr. Brenda Thompson,Otolaryngologist (ENT),16,Ronaldland Medical Center,4.84
+OTOLA_03,Dr. Ashley Simpson,Otolaryngologist (ENT),31,Lake Anthony Medical Center,4.67
+OTOLA_04,Dr. Zachary Hernandez,Otolaryngologist (ENT),35,Harperview Medical Center,4.07
+OTOLA_05,Dr. Christian White,Otolaryngologist (ENT),26,Ramosview Medical Center,4.59
+OTOLA_06,Dr. Robert Jenkins,Otolaryngologist (ENT),37,Stevenland Medical Center,4.74
+OTOLA_07,Dr. Cameron Barker,Otolaryngologist (ENT),40,Lorimouth Medical Center,3.95
+OTOLA_08,Dr. Eric Barajas,Otolaryngologist (ENT),25,Port Stacytown Medical Center,3.66
+OTOLA_09,Dr. James Johns,Otolaryngologist (ENT),22,Coreyview Medical Center,3.51
+OTOLA_10,Dr. Marc Wilson,Otolaryngologist (ENT),15,New Nicholas Medical Center,4.11
+PATHO_01,Dr. Kristen Brown,Pathologist,24,Christopherbury Medical Center,4.37
+PATHO_02,Dr. Jennifer Wright,Pathologist,32,Port Tiffanychester Medical Center,3.56
+PATHO_03,Dr. Ryan Maxwell,Pathologist,32,Lake Amanda Medical Center,3.9
+PATHO_04,Dr. Misty Miller,Pathologist,37,North Brentbury Medical Center,4.42
+PATHO_05,Dr. Karl Johnson,Pathologist,21,Phillipsshire Medical Center,4.95
+PATHO_06,Dr. Dean Campbell,Pathologist,9,Piercebury Medical Center,4.54
+PATHO_07,Dr. Ashley Moreno,Pathologist,36,West Kristintown Medical Center,4.14
+PATHO_08,Dr. Lee Payne,Pathologist,13,East Michael Medical Center,4.71
+PATHO_09,Dr. Elizabeth Mckay,Pathologist,15,South Robin Medical Center,3.7
+PATHO_10,Dr. Kimberly Mccormick,Pathologist,5,North Ericmouth Medical Center,4.85
+PEDIA_01,Dr. Whitney Browning,Pediatrician,5,North Jamesside Medical Center,4.9
+PEDIA_02,Dr. Sean Gonzalez,Pediatrician,34,East Diamond Medical Center,3.68
+PEDIA_03,Dr. Bryan Johnson,Pediatrician,7,Lake Larry Medical Center,4.04
+PEDIA_04,Dr. Gina Miller,Pediatrician,18,Bryantfurt Medical Center,4.13
+PEDIA_05,Dr. Mark Ford,Pediatrician,13,South Andrew Medical Center,4.88
+PEDIA_06,Dr. Paul Cochran,Pediatrician,30,Wuborough Medical Center,4.13
+PEDIA_07,Dr. Andrew Suarez,Pediatrician,20,Lake Mariah Medical Center,4.74
+PEDIA_08,Dr. Patrick Santos,Pediatrician,34,New Petershire Medical Center,4.56
+PEDIA_09,Dr. Amy Chapman,Pediatrician,23,New Stephanieview Medical Center,3.56
+PEDIA_10,Dr. Patricia Clay,Pediatrician,29,Davisshire Medical Center,4.02
+PHYSI_01,Dr. Abigail Jacobs,Physiatrist,25,Morganberg Medical Center,4.35
+PHYSI_02,Dr. Nicholas Knight,Physiatrist,31,Lake Jeffrey Medical Center,4.26
+PHYSI_03,Dr. Eugene Wallace,Physiatrist,25,Chelseahaven Medical Center,4.31
+PHYSI_04,Dr. Chelsea Johnson,Physiatrist,20,Doyletown Medical Center,3.59
+PHYSI_05,Dr. David Gibson,Physiatrist,24,South Linda Medical Center,4.85
+PHYSI_06,Dr. Mary Schmidt,Physiatrist,20,North Michael Medical Center,4.1
+PHYSI_07,Dr. Adam Smith,Physiatrist,14,New Pamside Medical Center,4.52
+PHYSI_08,Dr. Cathy Potter,Physiatrist,19,West Donaldburgh Medical Center,4.81
+PHYSI_09,Dr. Darlene Calderon,Physiatrist,38,Prattport Medical Center,4.42
+PHYSI_10,Dr. Angela King,Physiatrist,35,Allenfurt Medical Center,4.12
+PLAST_01,Dr. Alice Jones,Plastic Surgeon,30,East Kristahaven Medical Center,3.84
+PLAST_02,Dr. Mark Carter,Plastic Surgeon,16,Lake Timothy Medical Center,4.57
+PLAST_03,Dr. Jerry Mitchell,Plastic Surgeon,20,Thomasfort Medical Center,3.57
+PLAST_04,Dr. Amy Perry,Plastic Surgeon,15,Port Nicole Medical Center,4.25
+PLAST_05,Dr. Daniel Bray,Plastic Surgeon,30,New Alicia Medical Center,3.65
+PLAST_06,Dr. Paula Garcia,Plastic Surgeon,28,Johnstad Medical Center,3.92
+PLAST_07,Dr. Eric Howard,Plastic Surgeon,20,Riggsstad Medical Center,3.54
+PLAST_08,Dr. Dana Rodriguez,Plastic Surgeon,20,East Barbara Medical Center,4.82
+PLAST_09,Dr. Linda Nielsen,Plastic Surgeon,17,Tinabury Medical Center,4.11
+PLAST_10,Dr. Ryan Anderson,Plastic Surgeon,30,New Deborah Medical Center,4.7
+PREVE_01,Dr. Mathew Jackson,Preventive Medicine Specialist,9,Lake Richardmouth Medical Center,4.77
+PREVE_02,Dr. Charles Wall,Preventive Medicine Specialist,25,Barbaraton Medical Center,4.58
+PREVE_03,Dr. Adam Byrd,Preventive Medicine Specialist,39,Glassland Medical Center,3.73
+PREVE_04,Dr. Jenna Lambert,Preventive Medicine Specialist,9,Mitchellhaven Medical Center,3.52
+PREVE_05,Dr. Marissa Pennington,Preventive Medicine Specialist,17,New Angela Medical Center,4.48
+PREVE_06,Dr. Mercedes Garcia,Preventive Medicine Specialist,18,Lake Debbie Medical Center,4.67
+PREVE_07,Dr. Robert Sullivan,Preventive Medicine Specialist,25,East Jessicaville Medical Center,4.94
+PREVE_08,Dr. Raymond Thomas,Preventive Medicine Specialist,37,Markfurt Medical Center,4.93
+PREVE_09,Dr. Kayla Baxter,Preventive Medicine Specialist,38,West Jenniferbury Medical Center,3.97
+PREVE_10,Dr. Brian Smith,Preventive Medicine Specialist,33,Colleenstad Medical Center,4.78
+PSYCH_01,Dr. Leslie Romero,Psychiatrist,21,North Adam Medical Center,4.06
+PSYCH_02,Dr. Blake Garner,Psychiatrist,7,New Jared Medical Center,4.81
+PSYCH_03,Dr. Patrick Wilkins,Psychiatrist,18,West Erinstad Medical Center,4.95
+PSYCH_04,Dr. Keith Sweeney,Psychiatrist,32,North Richard Medical Center,4.08
+PSYCH_05,Dr. Jenna Love,Psychiatrist,33,Judyhaven Medical Center,4.36
+PSYCH_06,Dr. Regina Osborne,Psychiatrist,7,Jonesburgh Medical Center,4.05
+PSYCH_07,Dr. Jennifer Wilcox,Psychiatrist,32,Michaelview Medical Center,4.66
+PSYCH_08,Dr. Christina Wilson,Psychiatrist,23,West Johnport Medical Center,3.59
+PSYCH_09,Dr. Scott Reed,Psychiatrist,8,South Austin Medical Center,4.47
+PSYCH_10,Dr. Katelyn White,Psychiatrist,14,Wrightville Medical Center,4.04
+PULMO_01,Dr. George Medina,Pulmonologist,38,Patelhaven Medical Center,3.94
+PULMO_02,Dr. Tracy Leonard,Pulmonologist,26,Lisaburgh Medical Center,3.58
+PULMO_03,Dr. Felicia Smith,Pulmonologist,9,Floydberg Medical Center,4.56
+PULMO_04,Dr. Darrell Copeland,Pulmonologist,18,West Kristieside Medical Center,3.6
+PULMO_05,Dr. Nathaniel Browning,Pulmonologist,27,Port Mark Medical Center,4.53
+PULMO_06,Dr. Kristina Mann,Pulmonologist,14,Kelleymouth Medical Center,3.92
+PULMO_07,Dr. Stephen Weaver,Pulmonologist,32,Danport Medical Center,3.66
+PULMO_08,Dr. Victor Brooks,Pulmonologist,19,North Henryton Medical Center,3.83
+PULMO_09,Dr. Robert Collins,Pulmonologist,6,North Michaelberg Medical Center,4.18
+PULMO_10,Dr. Timothy Sanders,Pulmonologist,39,Melissahaven Medical Center,3.74
+RADIA_01,Dr. Rebecca Larson,Radiation Oncologist,24,Ashleyburgh Medical Center,4.92
+RADIA_02,Dr. Jonathan Reyes,Radiation Oncologist,18,New Eric Medical Center,4.28
+RADIA_03,Dr. Maria Trevino,Radiation Oncologist,21,New David Medical Center,3.6
+RADIA_04,Dr. William Frederick,Radiation Oncologist,10,Johnsonview Medical Center,4.66
+RADIA_05,Dr. Troy Mendez,Radiation Oncologist,7,North Ernestmouth Medical Center,3.74
+RADIA_06,Dr. Alexis Anderson,Radiation Oncologist,8,Lake Elizabethmouth Medical Center,4.5
+RADIA_07,Dr. Linda Thomas,Radiation Oncologist,6,New Wendyburgh Medical Center,3.51
+RADIA_08,Dr. David Potter,Radiation Oncologist,37,Port Stephanie Medical Center,4.5
+RADIA_09,Dr. Amber Middleton,Radiation Oncologist,30,Chadland Medical Center,4.77
+RADIA_10,Dr. Brian Griffin,Radiation Oncologist,40,West Micheleview Medical Center,3.55
+RADIO_01,Dr. Joyce Robinson,Radiologist,40,Samanthastad Medical Center,4.12
+RADIO_02,Dr. Craig Stewart,Radiologist,5,Castrohaven Medical Center,4.58
+RADIO_03,Dr. Jose Mcpherson,Radiologist,29,Bishopmouth Medical Center,3.84
+RADIO_04,Dr. James Stephens,Radiologist,11,North Bethhaven Medical Center,4.73
+RADIO_05,Dr. Louis Gordon,Radiologist,5,Claymouth Medical Center,3.63
+RADIO_06,Dr. Jesse Miller,Radiologist,24,Jeffreystad Medical Center,3.61
+RADIO_07,Dr. Brandon Smith,Radiologist,14,Tonyfurt Medical Center,4.5
+RADIO_08,Dr. Thomas Henderson,Radiologist,8,Stewartchester Medical Center,4.72
+RADIO_09,Dr. Christopher Coleman,Radiologist,14,Rodneyville Medical Center,3.81
+RADIO_10,Dr. Paula Wallace,Radiologist,13,Martinfort Medical Center,4.12
+RHEUM_01,Dr. Jorge Barry,Rheumatologist,15,South Jamesshire Medical Center,4.22
+RHEUM_02,Dr. Emily Becker,Rheumatologist,18,Ericaburgh Medical Center,3.56
+RHEUM_03,Dr. Jeff Morgan,Rheumatologist,33,South Stephen Medical Center,4.99
+RHEUM_04,Dr. Isaiah Morales,Rheumatologist,32,Floresport Medical Center,4.64
+RHEUM_05,Dr. Brittany Roman,Rheumatologist,30,Kristopherburgh Medical Center,3.65
+RHEUM_06,Dr. Daniel Meyers,Rheumatologist,7,South Rebeccamouth Medical Center,4.73
+RHEUM_07,Dr. Olivia Williams,Rheumatologist,20,New Sean Medical Center,4.04
+RHEUM_08,Dr. John Smith,Rheumatologist,28,North Erin Medical Center,4.31
+RHEUM_09,Dr. Zachary Garcia,Rheumatologist,21,Port Debra Medical Center,3.87
+RHEUM_10,Dr. Michael Graham,Rheumatologist,34,West Erinport Medical Center,4.74
+SPORT_01,Dr. Emily Martinez,Sports Medicine Physician,6,Lake John Medical Center,4.17
+SPORT_02,Dr. Steven Hall,Sports Medicine Physician,36,North Monica Medical Center,4.59
+SPORT_03,Dr. Ricardo Riggs,Sports Medicine Physician,21,Campbellstad Medical Center,4.92
+SPORT_04,Dr. Arthur Rodgers,Sports Medicine Physician,40,Robertsberg Medical Center,4.96
+SPORT_05,Dr. Russell Robles,Sports Medicine Physician,16,Patrickside Medical Center,4.83
+SPORT_06,Dr. Oscar Rice,Sports Medicine Physician,26,Edwardsport Medical Center,3.63
+SPORT_07,Dr. Melissa Parks,Sports Medicine Physician,23,North Jesusview Medical Center,3.63
+SPORT_08,Dr. Elizabeth Jackson,Sports Medicine Physician,28,Frankland Medical Center,3.58
+SPORT_09,Dr. Stacie Gonzales,Sports Medicine Physician,31,Rodriguezville Medical Center,3.9
+SPORT_10,Dr. Katie Ford,Sports Medicine Physician,25,Caseburgh Medical Center,4.16
+SURGE_01,Dr. Russell Clark,Surgeon,23,Tinaland Medical Center,4.53
+SURGE_02,Dr. Pamela Boyd,Surgeon,6,North Ricky Medical Center,3.91
+SURGE_03,Dr. Brianna Brennan,Surgeon,23,Port Ryan Medical Center,3.59
+SURGE_04,Dr. Jennifer Mora,Surgeon,13,Janeshire Medical Center,4.46
+SURGE_05,Dr. Rita Yu,Surgeon,25,Lake Michael Medical Center,4.75
+SURGE_06,Dr. Julie Yates,Surgeon,29,Harrisonville Medical Center,4.64
+SURGE_07,Dr. Justin Reed,Surgeon,14,East Scottburgh Medical Center,4.31
+SURGE_08,Dr. Ashley Hamilton,Surgeon,16,East Rachelfurt Medical Center,4.07
+SURGE_09,Dr. Sara Martin,Surgeon,38,North Tyler Medical Center,4.42
+SURGE_10,Dr. David Ramirez,Surgeon,22,Brianview Medical Center,4.83
+UROLO_01,Dr. Leah Morgan,Urologist,19,East Judy Medical Center,3.69
+UROLO_02,Dr. Frederick Garcia,Urologist,20,East Thomasview Medical Center,4.06
+UROLO_03,Dr. Samuel Miller,Urologist,21,Virginiaport Medical Center,4.68
+UROLO_04,Dr. David Hardy,Urologist,31,Bowenmouth Medical Center,3.96
+UROLO_05,Dr. Courtney Jackson,Urologist,21,Edwardbury Medical Center,4.18
+UROLO_06,Dr. Brett Silva,Urologist,8,Amymouth Medical Center,3.92
+UROLO_07,Dr. Gary Mccullough,Urologist,19,North Christina Medical Center,3.51
+UROLO_08,Dr. Brenda Ross,Urologist,40,Lake Luisville Medical Center,4.82
+UROLO_09,Dr. Catherine Collins,Urologist,25,Keyberg Medical Center,4.28
+UROLO_10,Dr. Jeffrey James,Urologist,16,New John Medical Center,4.13
+CRITI_01,Dr. Christian Monroe,Critical Care/Intensive Care Specialist,22,Joannville Medical Center,4.2
+CRITI_02,Dr. Erica Castillo,Critical Care/Intensive Care Specialist,24,North Brandonhaven Medical Center,4.39
+CRITI_03,Dr. Daniel Mcfarland,Critical Care/Intensive Care Specialist,20,New Sue Medical Center,4.19
+CRITI_04,Dr. John Camacho,Critical Care/Intensive Care Specialist,31,Deborahfurt Medical Center,3.55
+CRITI_05,Dr. Jason Aguilar,Critical Care/Intensive Care Specialist,23,Lake Jonathan Medical Center,3.99
+CRITI_06,Dr. Wesley Hernandez,Critical Care/Intensive Care Specialist,24,Port Angelachester Medical Center,4.92
+CRITI_07,Dr. Laura Robbins,Critical Care/Intensive Care Specialist,16,Port Christopher Medical Center,4.18
+CRITI_08,Dr. Kimberly Arroyo,Critical Care/Intensive Care Specialist,7,Richardsmouth Medical Center,4.65
+CRITI_09,Dr. Kathryn Chapman,Critical Care/Intensive Care Specialist,34,Tranmouth Medical Center,4.92
+CRITI_10,Dr. Jennifer Murphy,Critical Care/Intensive Care Specialist,27,Foxton Medical Center,4.78
+NEONA_01,Dr. Kelsey Walters,Neonatologist,34,Lindaborough Medical Center,3.54
+NEONA_02,Dr. Mary Kim,Neonatologist,34,Mcclainland Medical Center,4.79
+NEONA_03,Dr. Matthew Johnson,Neonatologist,7,East Melissaberg Medical Center,3.75
+NEONA_04,Dr. Susan Bartlett,Neonatologist,35,Andersenland Medical Center,4.69
+NEONA_05,Dr. Jessica Martin,Neonatologist,16,Rogersborough Medical Center,3.6
+NEONA_06,Dr. David Foster,Neonatologist,24,Sullivanmouth Medical Center,4.72
+NEONA_07,Dr. Daniel Hobbs,Neonatologist,18,Sonyamouth Medical Center,4.31
+NEONA_08,Dr. Andre Nguyen,Neonatologist,21,Moralesbury Medical Center,3.52
+NEONA_09,Dr. Thomas Jones,Neonatologist,26,Wellsview Medical Center,4.53
+NEONA_10,Dr. Bradley Sanchez,Neonatologist,26,East Nathan Medical Center,4.72
+INTER_01,Dr. Matthew Brown,Interventional Radiologist,37,Leemouth Medical Center,4.92
+INTER_02,Dr. Crystal Price,Interventional Radiologist,19,New Jamesmouth Medical Center,4.96
+INTER_03,Dr. Amy Green,Interventional Radiologist,13,Lake Jameschester Medical Center,4.86
+INTER_04,Dr. Christopher Mclaughlin,Interventional Radiologist,23,Lake Aaron Medical Center,4.89
+INTER_05,Dr. Kimberly Grimes,Interventional Radiologist,13,North Ashley Medical Center,4.3
+INTER_06,Dr. Brian Rodriguez,Interventional Radiologist,12,New Tara Medical Center,4.86
+INTER_07,Dr. Emily Patterson,Interventional Radiologist,13,Johnborough Medical Center,4.34
+INTER_08,Dr. Gina Ball,Interventional Radiologist,19,New Anna Medical Center,4.33
+INTER_09,Dr. Clayton Hansen,Interventional Radiologist,10,East Derekborough Medical Center,4.97
+INTER_10,Dr. Anthony Hill,Interventional Radiologist,20,West Michaelview Medical Center,3.99
