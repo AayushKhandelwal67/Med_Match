@@ -1,0 +1,35 @@
+# requirements.txt
+
+# Core Frameworks
+streamlit
+langchain
+langchain-community # For loaders, embeddings, vectorstores, chat_models integrations
+ollama          # Python client for Ollama integration used by ChatOllama
+
+# Data Handling
+pandas
+numpy
+
+# Text Processing & Embeddings
+nltk
+sentence-transformers # For HuggingFaceEmbeddings
+torch                 # Dependency for sentence-transformers
+
+# Vector Store
+# Choose one based on your system:
+faiss-cpu             # For CPU-only systems (most compatible)
+# faiss-gpu           # Uncomment if you have NVIDIA GPU + CUDA correctly installed
+
+# PDF Loading
+pypdf                 # Dependency for PyPDFLoader
+
+# Utilities
+scikit-learn          # For cosine_similarity calculation
+
+# Optional but often helpful dependencies pulled by others:
+# requests
+# aiohttp
+# pydantic
+# typing_extensions
+# langchain-core
+# langsmith
